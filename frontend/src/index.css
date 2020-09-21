@@ -1,0 +1,10 @@
+body {
+    font-family: Lato, sans-serif;
+    margin: 0
+}
+.heading {
+    font-weight: 700;
+}
+.subheading {
+    font-weight: 400;
+}
